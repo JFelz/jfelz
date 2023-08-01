@@ -1,5 +1,6 @@
-## Welcome!
+## Welcome! ☕
 + I'm a Full Stack Software Engineer with an entrepreneurial heart and a background in Game Development, Product Design (UI/UX), Graphic Design, and digital 3D Art.
++ I work with organizations, businesses, and agencies to create software that are innovative and practical to the user. ​It's my pleasure to work on a team that will create and deploy applications to meet the client's business goals to protect and increase profit.
 + Feel free to reach out via [Email](mailto:feliz.jovani@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jfeliz/).
 
 ## 📱 Social
