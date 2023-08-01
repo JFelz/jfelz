@@ -1,6 +1,6 @@
 ### Hi, how are you? 👋
 + I'm a Full Stack Software Engineer with an entrepreneurial heart and a background in Game Development, Product Design (UI/UX), Graphic Design, and digital 3D Art.
-+ Feel free to reach out via [Email](feliz.jovanni@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jfeliz/).
++ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jfeliz/).
 
 ## Social
 [Instagram](https://www.instagram.com/overscopingdev/)
