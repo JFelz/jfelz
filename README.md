@@ -3,7 +3,7 @@
 + Feel free to reach out via [Email](feliz.jovanni@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jfeliz/).
 
 ## Social
-[![LinkedIn](https://github.com/JFelz/jfelz/assets/34929951/5cd764e6-b73c-4128-845a-d660849e75fe)](https://www.linkedin.com/in/jfeliz/)
+[<img src="https://github.com/JFelz/jfelz/assets/34929951/5cd764e6-b73c-4128-845a-d660849e75fe">](https://www.linkedin.com/in/jfeliz/)
 ## Tech Stack:
 ![c#](https://github.com/JFelz/jfelz/assets/34929951/19ccf9d0-2e07-49c1-bcf4-fb849683533d)
 ![react](https://github.com/JFelz/jfelz/assets/34929951/79534f1b-efa5-434c-877f-d7b88be2373f)
