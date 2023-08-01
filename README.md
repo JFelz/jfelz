@@ -1,25 +1,29 @@
 ### Hi, how are you? 👋
 + I'm a Full Stack Software Engineer with an entrepreneurial heart and a background in Game Development, Product Design (UI/UX), Graphic Design, and digital 3D Art.
-+ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jfeliz/).
++ Feel free to reach out via [Email](mailto:feliz.jovani@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jfeliz/).
 
 ## 📱 Social
-[Instagram](https://www.instagram.com/overscopingdev/)
+[![Static Badge](https://img.shields.io/badge/Instagram-logo?logo=Instagram&logoColor=purple&color=C570D6)](https://www.instagram.com/overscopingdev/)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-logo?logo=linkedin&logoColor=0A66C2&color=white)](https://www.linkedin.com/in/jfeliz/)
+[![Static Badge](https://img.shields.io/badge/Slack-logo?logo=Slack&logoColor=purple&color=101010)](https://join.slack.com/t/professional-contact/shared_invite/zt-20g26e0k4-uJlUWJ7p19j8vTc0mS7prg)
 
 # 🖥 Tech Stack:
-[![c#](https://github.com/JFelz/jfelz/assets/34929951/19ccf9d0-2e07-49c1-bcf4-fb849683533d)](https://www.instagram.com)
-![react](https://github.com/JFelz/jfelz/assets/34929951/79534f1b-efa5-434c-877f-d7b88be2373f)
-![js](https://github.com/JFelz/jfelz/assets/34929951/556a2734-18d0-4a6c-87a6-b5cd9d1777cc)
-![html](https://github.com/JFelz/jfelz/assets/34929951/e27e655f-1008-4d60-aef5-fa7d2bce4b63)
-![css](https://github.com/JFelz/jfelz/assets/34929951/3afc922e-61e2-494a-b431-d2f1e2114ab6)
-![bootstrap](https://github.com/JFelz/jfelz/assets/34929951/b6061111-f962-4d0b-90a7-788b656ede4e)
-![net](https://github.com/JFelz/jfelz/assets/34929951/c211ff85-25bc-4683-b1b7-dbbc347a7c15)
-![next](https://github.com/JFelz/jfelz/assets/34929951/9e3bb144-3b97-49a1-85b3-2cf57682ea23)
-![node](https://github.com/JFelz/jfelz/assets/34929951/1b24f5ab-63a7-4b93-86a5-240423d5431d)
-![postgres](https://github.com/JFelz/jfelz/assets/34929951/33dcc716-c9e1-4130-ae87-c8f855480f96)
-![sql](https://github.com/JFelz/jfelz/assets/34929951/05150cc2-be48-4dde-ab38-ea2faf6bcbe6)
-![firebase](https://github.com/JFelz/jfelz/assets/34929951/60469b19-fc74-44e7-8557-eff4b8acf677)
-![figma](https://github.com/JFelz/jfelz/assets/34929951/56074235-440d-4af6-8298-ea48cef4a1a8)
+Client-Side:
+![Static Badge](https://img.shields.io/badge/React-logo?style=flat-square&logo=react&logoColor=00CCFF&color=101010)
+![Static Badge](https://img.shields.io/badge/JavaScript-logo?style=flat-square&logo=javascript&logoColor=yellow&color=grey)
+![Static Badge](https://img.shields.io/badge/HTML-logo?style=flat-square&logo=html5&logoColor=orange-red&color=white)
+![Static Badge](https://img.shields.io/badge/CSS-logo?style=flat-square&logo=css3&logoColor=blue&color=white)
+![Static Badge](https://img.shields.io/badge/Bootstrap-logo?style=flat-square&logo=bootstrap&logoColor=purple&color=B7A3D8)
+![Static Badge](https://img.shields.io/badge/Next.js-logo?style=flat-square&logo=next.js&logoColor=black&color=white)
+![Static Badge](https://img.shields.io/badge/Node.js-logo?style=flat-square&logo=node.js&logoColor=white&color=6DA55F)
+![Static Badge](https://img.shields.io/badge/NPM-logo?style=flat-square&logo=npm&logoColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/Firebase-logo?style=flat-square&logo=firebase&logoColor=yellow&color=1A73E8)
+![Static Badge](https://img.shields.io/badge/Figma-logo?style=flat-square&logo=figma&color=101010)
 
+Server-Side:
+![Static Badge](https://img.shields.io/badge/C%23-logo?style=flat-square&logo=csharp&logoColor=white&color=purple)
+![Static Badge](https://img.shields.io/badge/framework-logo?style=flat-square&logo=.net&logoColor=white&color=C570D6)
+![Static Badge](https://img.shields.io/badge/RestAPI-logo?style=flat-square&logo=PostgreSQL&logoColor=white&label=PostgreSQL&labelColor=316192&color=black)
 
 
 
