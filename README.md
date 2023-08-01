@@ -3,9 +3,9 @@
 + Feel free to reach out via [Email](mailto:feliz.jovani@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jfeliz/).
 
 ## 📱 Social
-[![Static Badge](https://img.shields.io/badge/Instagram-logo?logo=Instagram&logoColor=purple&color=red)](https://www.instagram.com/overscopingdev/)
+[![Static Badge](https://img.shields.io/badge/Instagram-logo?logo=Instagram&logoColor=purple&color=white)](https://www.instagram.com/overscopingdev/)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-logo?logo=linkedin&logoColor=0A66C2&color=white)](https://www.linkedin.com/in/jfeliz/)
-[![Static Badge](https://img.shields.io/badge/Slack-logo?logo=Slack&logoColor=purple&color=101010)](https://join.slack.com/t/professional-contact/shared_invite/zt-20g26e0k4-uJlUWJ7p19j8vTc0mS7prg)
+[![Static Badge](https://img.shields.io/badge/Slack-logo?logo=Slack&logoColor=purple&color=white)](https://join.slack.com/t/professional-contact/shared_invite/zt-20g26e0k4-uJlUWJ7p19j8vTc0mS7prg)
 
 # 🖥 Tech Stack:
 Client-Side:
