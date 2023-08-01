@@ -1,4 +1,4 @@
-### Hi, how are you? 👋
+## Welcome!
 + I'm a Full Stack Software Engineer with an entrepreneurial heart and a background in Game Development, Product Design (UI/UX), Graphic Design, and digital 3D Art.
 + Feel free to reach out via [Email](mailto:feliz.jovani@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jfeliz/).
 
