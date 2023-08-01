@@ -1,10 +1,9 @@
-## Hi, how're you doing? 👋
+### Hi, how are you? 👋
 + I'm a Full Stack Software Engineer with an entrepreneurial heart and a background in Game Development, Product Design (UI/UX), Graphic Design, and digital 3D Art.
 + Feel free to reach out via [Email](feliz.jovanni@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jfeliz/).
 
 ## Social
-![LinkedIn](https://github.com/JFelz/jfelz/assets/34929951/5cd764e6-b73c-4128-845a-d660849e75fe)
-![Instagram](https://github.com/JFelz/jfelz/assets/34929951/9347869a-ee16-493c-b7de-ca2f3582a1c7)
+[![LinkedIn](https://github.com/JFelz/jfelz/assets/34929951/5cd764e6-b73c-4128-845a-d660849e75fe)](https://www.linkedin.com/in/jfeliz/)
 ## Tech Stack:
 ![c#](https://github.com/JFelz/jfelz/assets/34929951/19ccf9d0-2e07-49c1-bcf4-fb849683533d)
 ![react](https://github.com/JFelz/jfelz/assets/34929951/79534f1b-efa5-434c-877f-d7b88be2373f)
