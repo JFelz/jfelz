@@ -1,4 +1,4 @@
-![Hero](https://i.pinimg.com/originals/1e/4e/a9/1e4ea9773882d71787859284a98261e9.jpg)
+![Hero](https://i.pinimg.com/originals/49/87/e9/4987e96a73dbaaa9c29a658704106927.jpg)
 
 ## Welcome! ☕
 + I'm a Full Stack Software Engineer with an entrepreneurial heart and a background in Game Development, Product Design (UI/UX), Graphic Design, and digital 3D Art.
