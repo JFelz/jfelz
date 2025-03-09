@@ -1,7 +1,7 @@
 ![Hero](https://i.pinimg.com/originals/8e/d6/c8/8ed6c82f4731db67f5b7abd72ed07365.png)
 
 ## Welcome! ☕
-My journey as a Software Engineer, complemented by a strong foundation in UI/UX and Game Development, has sharpened my leadership, team collaboration, and problem-solving skills. With a strong foundation in interactive experience design, I specialize in creating intuitive, high-performance user interfaces that enhance engagement and responsiveness. My expertise in frontend development has given me the ability to craft seamless, visually compelling digital experiences that not only captivate users but also drive oranizational goals.
+My journey as a Software Engineer, complemented by a strong foundation in UI/UX and Game Development, has sharpened my leadership, team collaboration, and problem-solving skills. With a strong foundation in interactive experience design, I specialize in creating intuitive, high-performance user interfaces that enhance engagement and responsiveness. My expertise in frontend development allows me to craft seamless, visually compelling digital experiences that not only captivate users but also drive oranizational goals.
 
 With a deep focus on user-centric innovation, I am eager to contribute to a team that challenges the status quo, values continuous growth, and is dedicated to shaping the future of digital experiences.
   
