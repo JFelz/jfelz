@@ -2,7 +2,7 @@
 
 ## Welcome! ☕
 + Full Stack Software Engineer with an entrepreneurial heart, a background in Game Development, and UI/UX.
-+ My journey as a Software Engineer, complemented by a strong foundation in Game Development, has sharpened my leadership, team collaboration, and problem-solving skills. Being able to fuse creativity with analytical-thinking positions me not to just succeed in this field but to be able to bridge the gap between designers and programmers on business goals. The pursuit of impacting the lives of others through technology has always been a core desire. When I realized Software Engineering could provide more opportunities in fulfilling my career goals than I could with Game Development, I fell more in love with the field. With a focus on client and business solutions, I look forward to being on a team that continues to push the boundaries of tech, who are driven to succeed, and are willing to invest in their growth.
++ My journey as a Software Engineer, complemented by a strong foundation in Game Development, has sharpened my leadership, team collaboration, and problem-solving skills. Being able to fuse creativity with analytical-thinking positions me not to just succeed in this field but to be able to bridge the gap between designers and programmers on business goals. The pursuit of impacting the lives of others through technology has always been a core desire. With a focus on client and business solutions, I look forward to being on a team that continues to push the boundaries of tech, who are driven to succeed, and are willing to invest in their growth.
 + Feel free to reach out via [Email](mailto:feliz.jovani@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jfeliz/).
 
 ## 📱 Social
