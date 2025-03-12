@@ -1,9 +1,11 @@
 ![Hero](https://i.pinimg.com/originals/8e/d6/c8/8ed6c82f4731db67f5b7abd72ed07365.png)
 
 ## Welcome! ☕
-My journey as a Software Engineer, complemented by a strong foundation in UI/UX and Game Development, has sharpened my leadership, team collaboration, and problem-solving skills. With a strong foundation in interactive experience design, I specialize in creating intuitive, high-performance user interfaces that enhance engagement and responsiveness. My expertise in frontend development allows me to craft seamless, visually compelling digital experiences that not only captivate users but also drive organizational goals.
+I don’t just build user interfaces. I create seamless, high-performance digital experiences that enhance usability and drive business success. With a strong foundation in UI/UX and Game Development, I bring a unique blend of design thinking and technical expertise to frontend engineering.
 
-With a deep focus on user-centric innovation, I am eager to contribute to a team that challenges the status quo, values continuous growth, and is dedicated to shaping the future of digital experiences.
+My approach merges creativity with strategic problem-solving, ensuring that every interface is not only visually engaging but also fast, accessible, and optimized for user experience. I specialize in building scalable, responsive web applications, implementing design systems, and integrating interactive UI elements that elevate user engagement.
+
+I’m looking for an opportunity to join a team that values innovation and user-centered design, where I can contribute my skills to create products that make an impact.
   
 + Feel free to reach out via [Email](mailto:feliz.jovani@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jfeliz/).
 
