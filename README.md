@@ -1,7 +1,7 @@
 ![Hero](https://i.pinimg.com/originals/8e/d6/c8/8ed6c82f4731db67f5b7abd72ed07365.png)
 
 ## Welcome! ☕
-I don’t just build user interfaces. I create seamless, high-performance digital experiences that enhance usability and drive business success. With a strong foundation in UI/UX and Game Development, I bring a unique blend of design thinking and technical expertise to frontend engineering.
+I create seamless, high-performance digital experiences that enhance usability and drive business success. With a strong foundation in UI/UX and Game Development, I bring a unique blend of design thinking and technical expertise to frontend engineering.
 
 My approach merges creativity with strategic problem-solving, ensuring that every interface is not only visually engaging but also fast, accessible, and optimized for user experience. I specialize in building scalable, responsive web applications, implementing design systems, and integrating interactive UI elements that elevate user engagement.
 
